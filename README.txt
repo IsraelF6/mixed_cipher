@@ -14,7 +14,7 @@ The file test.txt has the following contents:
      
 SAMPLE RUN:
 
-$ python mixed_cipher.py test.txt
+>>> python mixed_cipher.py test.txt
 Please enter a keyword for the mixed cipher: Motherboard
 Plaintext: abcdefghijklmnopqrstuvwxyz 
 Ciphertext: motherbadcfgijklnpqsuvwxyz 
